@@ -5,10 +5,10 @@ module.exports = {
 	theme: {
 		extend: {
 			colors: {
-				primarybg: "#7ED9D9",
+				primarybg: "#242424",
 				secondary: "#E4D091",
-				cursor: "#143259",
-				intro: "#143259",
+				cursor: "#E4D091",
+				intro: "#E4D091",
 				about : "#f5ebe0",
 				skillhead : "#D9BF8F",
 				skills: '#D9BF8F'

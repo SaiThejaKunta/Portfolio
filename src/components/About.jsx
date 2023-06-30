@@ -42,7 +42,7 @@ const About = () => {
             animate={{ type: "easeinout" }}
           >
             <motion.div
-              className="text-intro text-2xl md:text-4xl font-medium lg:mb-3"
+              className="text-blue-900 text-2xl md:text-4xl font-medium lg:mb-3"
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5 }}

@@ -32,9 +32,9 @@ const Contact = () => {
             If you're interested in working together, have any questions, or
             just want to say hello, I'd love to hear from you! You can reach me
             at{" "}
-            <a href="mailto:saitheja.kunta@gmail.com" className=" text-[#143259] ">saitheja.kunta@gmail.com</a>{" "}
+            <a href="mailto:saitheja.kunta@gmail.com" className=" text-[#E4D091] ">saitheja.kunta@gmail.com</a>{" "}
             or connect with me on Twitter-
-            <span className="  text-[#143259] ">@kunta_saiteja</span>. Thank you
+            <span className="  text-[#E4D091] ">@kunta_saiteja</span>. Thank you
             for visiting my portfolio website, and I look forward to connecting
             with you soon!
           </div>

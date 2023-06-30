@@ -31,7 +31,7 @@ const Skills = () => {
             <div className="flex flex-row h-screen w-full font-opensans">
                 <motion.div className="flex flex-col flex-1 justify-center items-center "
                 >
-                    <div className="text-3xl sm:text-5xl font-medium mb-4 text-[#143259]">Skills</div>
+                    <div className="text-3xl sm:text-5xl font-medium mb-4 text-[#E4D091]">Skills</div>
                     {
                         skills && skills.map((skill) => { 
                             return (
