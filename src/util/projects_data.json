@@ -1,38 +1,35 @@
-[
+[ {
+  "id ": 1,
+  "name": "Project 1 : Cloud Connected Matrix Display",
+  "url": "https://github.com/SaiThejaKunta/Cloud-Connected-Matrix-Display",
+  "img": "https://drive.google.com/uc?export=view&id=1GQ2jcfu6DnntQ_LUNbJ0ArPwAoTNSVwn",
+  "altname": "Cloud Connected Matrix Display png",
+  "content": "Implemented real-time message scrolling on a matrix display using the MD_MAX72xx library and MQTT communication, enhancing user experience with dynamic and visually appealing content.",
+  "technologies": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png",
+    "https://dennistries.com/wp-content/uploads/2019/05/arduino-icon-2.png",
+    "https://cdn.icon-icons.com/icons2/3911/PNG/512/adafruit_logo_icon_247725.png",
+    "https://techzeero.com/wp-content/uploads/2019/07/nodemcu-logo.png",
+    "https://cdn-icons-png.flaticon.com/512/6119/6119533.png",
+    "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128"
+  ]
+},
   {
-    "id ": 1,
-    "name": "Project 1 : University Mobile App ",
+    "id ": 2,
+    "name": "Project 2 : University Mobile App ",
     "url": "https://github.com/SaiThejaKunta/Institution-App",
     "img": "https://drive.google.com/uc?export=view&id=1jVua2dxDmGeqpm___fSyOoQkVfq0bVhY",
     "altname": "University Mobile App png",
     "content": "Using Google's Jetpack Compose technology created an Android app with multiple interfaces",
     "technologies": [
-      "https://mathiasfrohlich.gallerycdn.vsassets.io/extensions/mathiasfrohlich/kotlin/1.7.1/1581441165235/Microsoft.VisualStudio.Services.Icons.Default",
-      "https://d12i7q49526cmu.cloudfront.net/media/original_images/jetpackcompose.png",
-      "https://e7.pngegg.com/pngimages/937/56/png-clipart-android-studio-slider-tutorial-android-software-development-android-studio-logo.png",
-      "https://cdn.sanity.io/images/3gsfgfso/production/fe6bf0184095083d67b2997753bcbc2706716826-225x225.png",
-      "https://cdn.sanity.io/images/3gsfgfso/production/a089d82dbdb74a3176e01ee4aa7455e384702656-360x216.png",
-      "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128",
-      "https://cdn.iconscout.com/icon/free/png-256/free-netlify-3521601-2945045.png?f=avif&w=128"
+      "https://dormoshe.io/images/newsletters/badges/kotlin.png",
+      "https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png",
+      "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128"
+      
     ]
   },
-  {
-    "id ": 2,
-    "name": "Project 2 : Cloud Connected Matrix Display",
-    "url": "https://github.com/SaiThejaKunta/Cloud-Connected-Matrix-Display",
-    "img": "https://drive.google.com/uc?export=view&id=1GQ2jcfu6DnntQ_LUNbJ0ArPwAoTNSVwn",
-    "altname": "Cloud Connected Matrix Display png",
-    "content": "Implemented real-time message scrolling on a matrix display using the MD_MAX72xx library and MQTT communication, enhancing user experience with dynamic and visually appealing content.",
-    "technologies": [
-      "https://cdn.iconscout.com/icon/free/png-256/free-html-2752158-2284975.png?f=avif&w=128",
-      "https://cdn.iconscout.com/icon/free/png-256/free-css3-11-1175239.png?f=avif&w=128",
-      "https://cdn.iconscout.com/icon/free/png-256/free-javascript-1-225993.png?f=avif&w=128",
-      "https://cdn.sanity.io/images/3gsfgfso/production/fe6bf0184095083d67b2997753bcbc2706716826-225x225.png",
-      "https://cdn.sanity.io/images/3gsfgfso/production/a089d82dbdb74a3176e01ee4aa7455e384702656-360x216.png",
-      "https://cdn.iconscout.com/icon/free/png-256/free-github-1521500-1288242.png?f=avif&w=128",
-      "https://www.svgrepo.com/show/327408/logo-vercel.svg"
-    ]
-  },
+  
   {
     "id ": 3,
     "name": "Project 3 : TODO List",
