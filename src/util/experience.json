@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "job" : "Google Developer Student Clubs",
+        "job_description" : "Selected as CO-LEAD for Google Developer Student Clubs - Guru Nanak Institute of Technical Campus.Proficiency in Team Building and Team Leading",
+        "job_date" : "September,2022",
+        "job_link" : "https://g.dev/saitheja"
+    },
+    {
+        "id" : 2,
+        "job" : "Feliks Club Founder",
+        "job_description" : "Successfully established a club in my campus which enables peer-peer learning.",
+        "job_date" : "July,2022",
+        "job_link" : "https://www.instagram.com/feliksclub/"
+    },
+    {
+        "id" : 2,
+        "job" : "TrechOn LLC Freelancer",
+        "job_description" : "Developed and launched an SEO-optimized website for Trechon LLC, a modern IT solutions companyregistered as Trechon LLC Georgia, Atlanta, USA",
+        "job_date" : "June 2021 - Feb 2023",
+        "job_link" : "https://trechon.com/"
+    }
+]
