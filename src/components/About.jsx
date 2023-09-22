@@ -52,8 +52,7 @@ const About = () => {
             </motion.div>
             <p className="text-gray-600 text-sm md:text-lg">
               Hello! I'm SaiTheja_Kunta, a passionate coder and aspiring data
-              scientist currently pursuing B.Tech in Data Science at Guru Nanak
-              Institutions. I have a strong foundation in Python programming and
+              scientist. I have a strong foundation in Python programming and
               can confidently code in Java, C, and C++. My journey in the tech
               world has been an exciting one. I had the opportunity to establish
               a club called "Feliks," where I fostered a community of
