@@ -1,23 +1,45 @@
-[
-    {
+[{
         "id" : 1,
-        "job" : "Google Developer Student Clubs",
+        "job" : "TrechOn LLC-Data Science Intern",
+        "job_description" : "Implemented python script automating client data preprocessing,reducing processing time by 30% and boosting efficiency by 25%.",
+        "job_date" : "Jan 2024 – Apr 2024",
+        "job_link" : "https://trechon.com/"
+    },
+    {
+        "id" : 2,
+        "job" : "IK Technologies-Associate Engineer",
+        "job_description" : "Utilized Azure Data Factory to efficiently mass import both raw and structured data into Azure, ensuring seamless data integration and management.",
+        "job_date" : "Aug 2023 – Dec 2023",
+        "job_link" : "https://www.iktec.io/"
+    },
+     {
+        "id" : 3,
+        "job" : "IEEE Student Branch - Secretary",
+        "job_description" : "As Secretary of IEEE Student Branch-GNITC, spearheaded the establishment of a thriving research community within the college.",
+        "job_date" : "Dec 2023 – May 2024",
+        "job_link" : "https://webinabox.vtools.ieee.org/wibp_home/index/STB60219485"
+    },
+    
+    {
+        "id" : 4,
+        "job" : "Google Developer Student Clubs-Co Lead",
         "job_description" : "Selected as CO-LEAD for Google Developer Student Clubs - Guru Nanak Institute of Technical Campus.Proficiency in Team Building and Team Leading",
-        "job_date" : "September,2022",
+        "job_date" : "Mar 2022 – Jun 2023",
         "job_link" : "https://g.dev/saitheja"
     },
     {
-        "id" : 2,
-        "job" : "Feliks Club Founder",
+        "id" : 5,
+        "job" : "Feliks Club-Founder",
         "job_description" : "Successfully established a club in my campus which enables peer-peer learning.",
-        "job_date" : "July,2022",
+        "job_date" : "Feb 2022 - Mar 2023",
         "job_link" : "https://www.instagram.com/feliksclub/"
     },
-    {
-        "id" : 2,
-        "job" : "TrechOn LLC Freelancer",
-        "job_description" : "Developed and launched an SEO-optimized website for Trechon LLC, a modern IT solutions companyregistered as Trechon LLC Georgia, Atlanta, USA",
-        "job_date" : "June 2021 - Feb 2023",
-        "job_link" : "https://trechon.com/"
-    }
+     {
+        "id" : 6,
+        "job" : "AICTE IdeaLab - Brand Ambassador & Mentor",
+        "job_description" : "Led research and innovation initiatives, cultivating student collaboration and conducting in-depth research on computer vision and image processing algorithms under R&D department.",
+        "job_date" : "Jun 2021 – Feb 2023",
+        "job_link" : "https://aicteidealab.in/"
+    },
+    
 ]
