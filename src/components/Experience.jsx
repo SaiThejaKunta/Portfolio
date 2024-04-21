@@ -14,12 +14,12 @@ const ExperienceVerticalanimation = () => {
 
 const Experience = () => {
     return (
-        <div className="h-screen flex flex-col text-white relative overflow-auto">
+        <div className="h-screen flex flex-col text-white relative overflow-auto scrollbar-hide">
             <div className="flex-1">
                 <ExperienceVerticalanimation />
             </div>
             <div className=" flex items-center justify-center absolute w-full opacity-85 rounded-md max-sm:overflow-scroll max-sm:overflow-y-auto pt-9 max-sm:pt-56">
-                <ol className="relative border-l border-dashed border-white max-w-xs md:max-w-2xl lg:max-w-4xl mt-8">           
+                <ol className="relative border-l border-dashed border-white max-w-xs md:max-w-2xl lg:max-w-4xl lg:mt-8 sm:mt-2">           
                     {
                         experiences && experiences.map((experience) => {
                             return (
