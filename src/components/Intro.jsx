@@ -27,10 +27,10 @@ const Intro = () => {
             <Typewriter
               options={{
                 strings: [
-                  "Python Programmer.",
-                  "Web Developer.",
-                  "Gdsc Co-Lead.",
-                  "Feliks Club Founder.",
+                  "I'm a Passionate Data Scientist.",
+                  "I code in Python.",
+                  "Statistical problem-solver.",
+                  "Researcher in Data Science"
                 ],
                 autoStart: true,
                 loop: true,
