@@ -30,7 +30,7 @@ const Intro = () => {
                   "I'm a Passionate Data Scientist.",
                   "I code in Python.",
                   "Statistical problem-solver.",
-                  "Researcher in Data Science"
+                  "Researcher in Data Science."
                 ],
                 autoStart: true,
                 loop: true,
