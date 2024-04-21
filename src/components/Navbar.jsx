@@ -16,7 +16,7 @@ const Navbar = () => {
                 transition={{ duration: 0.5 }}
                 animate={{ type: "easeinout" }}
               >
-                Portfolio
+                &lt;/&gt;
               </motion.h2>
             </a>
           </motion.div>
