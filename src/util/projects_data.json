@@ -2,7 +2,7 @@
   "id ": 1,
   "name": "Project 1 : Cloud Connected Matrix Display",
   "url": "https://github.com/SaiThejaKunta/Cloud-Connected-Matrix-Display",
-  "img": "https://drive.google.com/uc?export=view&id=1GQ2jcfu6DnntQ_LUNbJ0ArPwAoTNSVwn",
+  "img": "https://drive.usercontent.google.com/download?id=1GQ2jcfu6DnntQ_LUNbJ0ArPwAoTNSVwn&export=view&authuser=0",
   "altname": "Cloud Connected Matrix Display png",
   "content": "Implemented real-time message scrolling on a matrix display using the MD_MAX72xx library and MQTT communication, enhancing user experience with dynamic and visually appealing content.",
   "technologies": [
